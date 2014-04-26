@@ -73,7 +73,12 @@ public abstract class ConfigurablePircBot extends PircBot {
             connect(cs);
 
             if (c.containsKey("Channels")) {
-                joinChannel(c.getString("Channels"));
+
+                String channels[] = c.getStringArray("Channels");
+
+                for (String chan : channels){
+                    joinChannel(chan);
+                }
             }
         }
     }
