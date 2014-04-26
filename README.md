@@ -19,6 +19,6 @@ For general documentation on using PircBot' once it's installed, see the [jibble
 
 # Contributing
 
-This project is available on [GitHub](https://github.com/davidlazar/PircBot) and [Bitbucket](https://bitbucket.org/davidlazar/pircbot/). You may contribute changes using either.
+This project is available on [GitHub](https://github.com/mv2a/PircBot). You may contribute changes using either.
 
-Please report bugs and feature requests using the [GitHub issue tracker](https://github.com/davidlazar/PircBot/issues).
+Please report bugs and feature requests using the [GitHub issue tracker](https://github.com/mv2a/PircBot/issues).
